@@ -1,0 +1,25 @@
+total 48
+drwxr-xr-x 2 root root 4096 Aug 24 19:01 .
+drwxr-xr-x 6 root root  157 Aug 24 18:11 ..
+-rwxr--r-- 1 root root   41 Aug 24 18:16 0-hello_world
+-rw-r--r-- 1 root root    0 Aug 24 18:13 0-hello_world~
+-rwxr--r-- 1 root root   28 Aug 24 18:22 1-confused_smiley
+-rw-r--r-- 1 root root    0 Aug 24 18:20 1-confused_smiley~
+-rwxr--r-- 1 root root   28 Aug 24 18:25 2-hellofile
+-rw-r--r-- 1 root root    0 Aug 24 18:24 2-hellofile~
+-rwxr--r-- 1 root root   39 Aug 24 18:32 3-twofiles
+-rwxr--r-- 1 root root    0 Aug 24 18:31 3-twofils
+-rwxr--r-- 1 root root   33 Aug 24 18:37 4-lastlines
+-rw-r--r-- 1 root root    0 Aug 24 18:36 4-lastlines~
+-rwxr--r-- 1 root root   33 Aug 24 18:41 5-firstlines
+-rw-r--r-- 1 root root    0 Aug 24 18:40 5-firstlines~
+-rwxr--r-- 1 root root   42 Aug 24 18:46 6-third_line
+-rw-r--r-- 1 root root    0 Aug 24 18:45 6-third_line~
+-rwxr--r-- 1 root root   78 Aug 24 18:52 7-file
+-rw-r--r-- 1 root root    0 Aug 24 18:49 7-file~
+-rwxr--r-- 1 root root   36 Aug 24 18:59 8-cwd_state
+-rw-r--r-- 1 root root    0 Aug 24 18:58 8-cwd_state~
+-rw-r--r-- 1 root root   12 Aug 24 18:53 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 Aug 24 19:01 ls_cwd_content
+-rw-r--r-- 1 root root   45 Aug 24 18:13 README.md
+-rw-r--r-- 1 root root    0 Aug 24 18:12 README.md~
